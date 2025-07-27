@@ -27,4 +27,4 @@ This is a simple *Age Calculator* project built as part of the *CodeAlpha Intern
    - Compares it with the current date
    - Outputs the age in years, months, and days
 
-## 📂 Project Structure
+
